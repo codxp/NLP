@@ -1,8 +1,10 @@
 from langchain_community.chat_models import ChatOllama
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
+import pandas as pd
 
-def one_shot(question):
+
+def one_shot_method(question):
 
         models = ['llama3:latest', 'mistral:latest', 'phi3:latest']
 
@@ -23,16 +25,18 @@ def one_shot(question):
                                         - Maintenance
                                         - Inventory Management\n""")
 
-        # # Define the question
-        # questions = ["What is the total number of sales transactions in the last month?",
-        #         "What is the average time taken to resolve maintenance requests?",
-        #         "What is the total number of items in the inventory?"]
 
-        result = {}
+        # Liste des modèles
+        models = ['llama3:latest', 'mistral:latest', 'phi3:latest']
+
+        # Initialiser un DataFrame vide avec un MultiIndex pour les colonnes
+        columns = pd.MultiIndex.from_product([['ONE_SHOT'], models], names=['Type', 'Model'])
+        df = pd.DataFrame(columns=columns)
+        
+        # Préparer une liste pour stocker les réponses
+        responses = []
 
         for model in models:
-
-                result[model] = {}
                 # Load the model
                 llm = ChatOllama(model=model)
                 
@@ -41,6 +45,20 @@ def one_shot(question):
 
                 # Run the zero-shot chain
                 response = one_shot_chain.invoke(input=question)
-                result['One_shot'][model] = response
+                # Nettoyer la réponse
+                if 'sales' in response.lower():
+                        response = 'Sales'
 
-        return result
+                elif 'maintenance' in response.lower():
+                        response = 'Maintenance'
+
+                elif 'inventory management' in response.lower():
+                        response = 'Inventory Management'
+                
+                # Ajouter la réponse à la liste des réponses
+                responses.append(response)
+
+        # Ajouter les réponses au DataFrame
+        df.loc[0] = responses
+        
+        return df

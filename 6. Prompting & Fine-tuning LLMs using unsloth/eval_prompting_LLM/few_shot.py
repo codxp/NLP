@@ -9,7 +9,7 @@ def remove_punctuation(text):
     # Utilise une expression régulière pour remplacer toutes les ponctuations par une chaîne vide
     return re.sub(r'[^\w\s]', '', text)
 
-def few_shot_call(question):
+def few_shot_method(question):
 
     # Define the prompt
     few_shot_prompt = ChatPromptTemplate.from_template("""
@@ -90,7 +90,7 @@ def few_shot_call(question):
         elif 'maintenance' in response.lower():
             response = 'Maintenance'
 
-        elif 'inventory Management' in response.lower():
+        elif 'inventory management' in response.lower():
             response = 'Inventory Management'
         
         # Ajouter la réponse à la liste des réponses

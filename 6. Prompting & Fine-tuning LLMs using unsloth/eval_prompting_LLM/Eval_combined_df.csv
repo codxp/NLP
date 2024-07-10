@@ -1,0 +1,282 @@
+,input,category,"('FEW_SHOT', 'llama3:latest')","('FEW_SHOT', 'mistral:latest')","('FEW_SHOT', 'phi3:latest')","('ONE_SHOT', 'llama3:latest')","('ONE_SHOT', 'mistral:latest')","('ONE_SHOT', 'phi3:latest')","('ZERO_SHOT', 'llama3:latest')","('ZERO_SHOT', 'mistral:latest')","('ZERO_SHOT', 'phi3:latest')"
+0,Which customer made the highest purchase this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+1,How many units were sent for repair this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+2,What was the most frequently ordered product last quarter?,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales
+3,Which sales representative has the highest sales this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+4,How many scheduled maintenance activities are overdue?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+5,What is the average lead time for item A reordering?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+6,What is the average downtime for equipment last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+7,Which sales representative has the highest sales for this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+8,When is the next scheduled service for Machine Z?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+9,What is the total value of inventory currently in the warehouse?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+10,Which sales representative has the highest conversion rate this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+11,How many unscheduled maintenance tasks occurred in the last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+12,What is the average time between replenishment of stock for product A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+13,Which sales representative had the highest sales this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+14,How many scheduled maintenances were missed over the last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+15,What is the frequency of inventory checks for product A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+16,Which salespersons have achieved their sales target this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+17,What is the expected delivery date for the next supply of item Z?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+18,What is the average deal size for this quarter?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+19,Which equipment is due for preventive maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+20,What is the lead time for restocking item X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+21,What is the average sales value per customer this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+22,Which equipment required the highest maintenance costs this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+23,Which supplier has the longest delivery time?,Inventory Management,Inventory Management,Inventory Management,Maintenance,Maintenance,Maintenance,Inventory Management,Sales,Inventory Management,Inventory Management
+24,Which region generated the most sales this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+25,How many equipment failures occurred in the last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+26,What is the estimated time of arrival for the next shipment of product X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales
+27,Which customers have the highest purchase rates?,Sales,Sales,Sales,Sales,Inventory Management,Sales,Sales,Sales,Sales,Sales
+28,What is the current status of machine Q's repair?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+29,What is the forecast for the stock level of product X next month?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+30,What was the highest selling product category this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+31,Which piece of equipment required the most repairs this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+32,What is the average time it takes for a product to go out of stock?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management
+33,What are the sales projections for next month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+34,What was the average response time for maintenance requests last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+35,When was the last inventory count done for product X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+36,Who are our top five customers this quarter?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+37,What are the pending maintenance requests?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+38,What is the forecasted demand for the next month?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Sales,Inventory Management,Sales
+39,Which geographical region had the highest sales last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+40,How many equipment are scheduled for preventive maintenance next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+41,What is the estimated time to restock item A based on past data?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+42,Which customer made the most purchases this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+43,What's the average time taken to restock item X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+44,What is the average time taken to replenish stock for item X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+45,Who were our top customers last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+46,What is the average downtime of our equipment due to maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+47,What was the most ordered product this week?,Inventory Management,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales,Sales,Inventory Management,Sales
+48,Which sales representative has the highest performance this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+49,How many units are currently under maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+50,Which sales representative has the highest revenue this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+51,How many equipment are overdue for scheduled maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+52,Which supplier delivers the fastest based on previous orders?,Inventory Management,Inventory Management,Inventory Management,Maintenance,Sales,Maintenance,Maintenance,Maintenance, Supplier Delivery Speed (ERP Log Analysis), Supplier Performance Analysis
+53,Which was the most profitable sales region this quarter?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+54,What is the average time for resolving a maintenance issue?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+55,What is the turnover rate for product X over the past 6 months?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Sales
+56,Which salesperson has the highest sales volume for the current month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+57,What is the average downtime due to equipment maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+58,What is the average time taken to restock item X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+59,Who are the top 3 sales representatives of the current fiscal year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+60,Which equipments have the highest maintenance costs?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+61,What is the status of the pending purchase orders?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Sales
+62,Who are our top five customers in terms of revenue generated?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+63,Which equipment required the most repairs last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+64,What is the average time taken to replenish stock for item A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+65,What is the rate of customer return for product A?,Sales,Sales,Sales,Sales,Sales,Inventory Management,Sales,Sales,Inventory Management,Sales
+66,What is the average downtime of equipment B?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+67,What were the five most ordered products in the past month?,Inventory Management,Sales,Sales,Sales,Sales,Inventory Management,Sales,Inventory Management,Inventory Management,Sales
+68,Which region had the highest sales in the previous fiscal year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+69,What is the average downtime for equipment maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+70,What was the most ordered item in the past three months?,Inventory Management,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales,Inventory Management,Inventory Management,Sales
+71,What was the highest selling product of the last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+72,Which machine has required the most maintenance this year?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+73,What is the turnaround time for product restocking?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management
+74,Who are the top five customers by sales volume for this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+75,What is the expected arrival time for the next inventory shipment?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+76,What is the current status of machine Z's maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+77,What was the most frequently ordered item this month?,Inventory Management,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales,Inventory Management,Inventory Management,Sales
+78,What is the rate of customer retention this year compared to the previous year?,Sales,Sales,Inventory Management,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+79,What percentage of equipment is due for scheduled maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+80,What is the forecasted demand for product X in the upcoming quarter?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Sales,Inventory Management,Sales
+81,What is the sales percentage increase compared to the same period last year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+82,What is the ongoing cost of maintenance for a given asset?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+83,How many equipment are scheduled for maintenance next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+84,What is the turnover rate of product A in the warehouse?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+85,Which region had the highest sales in the previous financial year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+86,What was the average duration of downtimes last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+87,What is the estimated time for the next restock of item A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+88,How many maintenance requests are currently open?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+89,How long does item X typically stay in stock before being sold?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+90,Who were our top performing salespersons of the past month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+91,How much downtime was experienced last month due to equipment failures?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+92,What's the average time taken for restocking an out-of-stock product?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+93,Who are our top 10 customers by revenue this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+94,Which machines required the most downtime over the past month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+95,What is the total worth of our current inventory?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+96,What is the percentage of sales growth compared to the previous quarter?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+97,What is the average downtime of equipment due to maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+98,What is the percentage of inventory turnover rate?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+99,Who are our top 10 customers based on revenue?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+100,What is the status of preventive maintenance schedules for our equipment?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+101,What is the lead time for replenishment of item A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+102,Which region had the highest sales this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+103,What is the total cost of repairs this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+104,What is the turnover rate of product Z?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+105,What is the average number of sales made per day over the past month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+106,What equipment is due for scheduled maintenance next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+107,What is the optimal stock level for our top-selling products?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales
+108,What is the average sales transaction value for the past 6 months?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+109,What is the average repair time for high-priority issues?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+110,Which are the most frequently ordered products?,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales
+111,What is the status of planned preventive maintenance for machine A?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Sales
+112,When is the next delivery of product B expected?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales
+113,Which salesperson achieved the highest sales this week?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+114,What is the average time taken to resolve maintenance issues?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+115,Which suppliers deliver the fastest and are their products in stock?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management
+116,Which sales representative achieved the highest sales this week?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+117,What is the total value of the current inventory?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+118,Which salesperson has the highest sales figures for the current month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+119,How many upcoming scheduled maintenance tasks are there?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+120,Which supplier has the fastest delivery time for replenishing stock?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+121,Which customer segment contributed the most to our revenue in the previous fiscal year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+122,How many and which equipment is scheduled for preventive maintenance next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+123,What were the most frequently ordered items last month?,Inventory Management,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales,Inventory Management,Inventory Management,Sales
+124,Who are the top performing sales representatives of the year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+125,What are the pending maintenance tasks for equipment Z?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+126,What was the rate of inventory turnover for product X last month?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+127,Who were our top customers in the last fiscal year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+128,How many hours of downtime were recorded last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+129,What is the reorder point for product A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+130,Which sales representative had the highest sales this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+131,Which equipment has the highest downtime this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+132,What is the pending maintenance schedule for the upcoming week?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+133,What is the last recorded inventory count for product Q?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+134,Which sales team achieved the highest revenue last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+135,How many maintenance requests are pending currently?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+136,What's the turnover rate for our most popular product?,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales
+137,What is the current return rate of sold items in this month?,Sales,Sales,Sales,Sales,Sales,Inventory Management,Sales,Sales,Inventory Management,Sales
+138,What is the average time taken to replenish stock for product A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+139,Who are our top-performing sales representatives this fiscal year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+140,What is the average time taken to replenish our inventory?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+141,Who are our top performing sales representatives for the current year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+142,How many unscheduled maintenance activities occurred last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+143,What is the average time a product stays in inventory before it is sold?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+144,Which salesperson has the highest sales volume for the current year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+145,How many maintenance tasks are pending and what is their urgency level?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+146,What percentage of our inventory is currently unused and needs clearance?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+147,Which sales representative generated the highest revenue this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+148,How many routine maintenance operations were performed this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+149,When was the last inventory audit performed and what discrepancies were found?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+150,Who are the top 3 sales representatives this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+151,Which equipment has the highest downtime?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+152,Who were our top clients in terms of revenue last year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+153,What is the average downtime due to equipment failures?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+154,What was the most ordered product in the last month?,Inventory Management,Inventory Management,Sales,Sales,Sales,Inventory Management,Sales,Sales,Inventory Management,Sales
+155,Which salesman had the highest sales last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+156,How many equipment are scheduled for maintenance next week?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+157,What is the average time to restock product A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+158,Who are our top 10 customers by sales volume this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+159,What items have exceeded their shelf life in our inventory?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+160,Which sales representative made the highest sales this week?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+161,After how many sales do we need to reorder product P?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+162,Which salesperson has the highest total sales this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+163,How many maintenance tasks are pending for this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+164,What is the average movement of item X in the past three months?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+165,Which sales representative has the highest closing rate this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+166,How many pieces of equipment are due for routine maintenance next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+167,What is the average turnover rate of our stock?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+168,Who are our top-performing sales representatives this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+169,How many unscheduled maintenance activities were performed this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+170,What is the average time for restock of product X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management
+171,Which salesperson has the highest sales figures this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+172,What is the average downtime due to maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+173,How long will the current inventory of item A last based on recent sales trends?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+174,Which region has the highest sales performance this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+175,How often does equipment X require maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+176,What is the average cycle time for restocking item A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+177,Who were our top performing sales representatives last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+178,What was the average downtime for equipment last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+179,What was the average deal size for the past month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+180,What is the average time taken to resolve issues?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Sales
+181,What are the most reordered products in the last year?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management
+182,What is the sales growth rate compared to the previous year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+183,Which machinery has the highest downtime?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+184,What is the estimated time of arrival for the next batch of product A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales
+185,What is the predicted sales trend for the next quarter?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+186,How many routine maintenance tasks are scheduled for the next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+187,What is the forecasted demand for product A in the next month?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales
+188,Who were our top five customers in terms of revenue generated last year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+189,How many assets are due for preventive maintenance next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+190,What is the average time to replenishment for our top-selling items?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+191,Who were our top three clients in terms of revenue last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+192,How many equipment are due for routine check next week?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+193,What is the expiration date for the batch X of product Y?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+194,Which sales representative has the highest sales this quarter?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+195,What percentage of equipment is currently under maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+196,What is the anticipated inventory level of product X for next month?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+197,Who were our top 10 customers in terms of revenue last year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+198,What is the anticipated stock requirement for the next quarter?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+199,Which supplier deliveries are overdue?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Maintenance,Inventory Management,Sales,Inventory Management,Inventory Management
+200,What is the average time it takes to close a deal?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+201,How many current unscheduled repairs are there?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Sales
+202,What is the estimated time for restocking item B?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+203,Which salesperson has the highest sales for the current fiscal year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+204,What is the turnaround time for replenishing the stock of item X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+205,Which sales representative achieved the highest sales this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+206,What is the schedule for routine maintenance checks this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+207,What is the reorder level for product X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+208,Which salesperson has the highest sales this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+209,How many equipment are scheduled for maintenance this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+210,What were the most sold out items last month?,Inventory Management,Inventory Management,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+211,What is the predicted maintenance schedule for the next quarter?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+212,Which products have reached their expiry date in our inventory?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+213,Which customers have the highest purchasing frequency this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+214,Which supplier delivers the fastest?,Inventory Management,Inventory Management,Inventory Management,Maintenance,Sales, Supplier Speed Classification (Delivery Time Analysis), Supplier Performance Analysis,Sales,Maintenance,Inventory Management
+215,Which sales representative had the highest performance last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+216,How frequently has equipment X needed servicing this year?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+217,When was the last inventory audit conducted?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+218,Who were the top performing sales representatives last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+219,What is the expected arrival date for the next shipment of product A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Inventory Management,Inventory Management,Sales,Inventory Management,Sales
+220,What is the average turnover rate of our inventory?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales
+221,What is the average sales per customer this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+222,Which equipment has the highest maintenance costs?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+223,What is the turnover rate of our top 5 products?,Inventory Management,Sales,Inventory Management,Sales,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales
+224,Which clients have the highest sales volume this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+225,What is the estimated time to restock item X based on current usage rates?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+226,What is the average sales revenue per representative?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+227,How often does equipment X require routine maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+228,What is the reorder point for product Z?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+229,What equipment requires frequent maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+230,What was the most ordered item in the last three months?,Inventory Management,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales,Sales,Inventory Management,Sales
+231,What were the unexpected maintenance issues reported this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+232,What is the estimated time to reorder and restock item A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+233,Who are the top 10 clients according to sales volume?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+234,What's the average time spent on each maintenance task this year?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+235,What were the top selling items last month and their remaining stock?,Inventory Management,Sales,Sales,Sales,Sales,Inventory Management,Sales,Sales,Inventory Management,Sales
+236,Which region had the highest sales in the last fiscal year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+237,What is the average downtime for machinery in the past month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+238,What was the last date item X was restocked?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+239,What's the percentage of repeat customers this year?,Sales,Sales,Sales,Sales,Sales,Inventory Management,Sales,Sales, Data Analysis (Cross-Departmental),Sales
+240,What is the average downtime due to maintenance issues?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+241,What is the average lead time for reordering products?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+242,What is the frequency of routine maintenance checks for machinery?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+243,Which supplier has the fastest delivery time for restocking?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management
+244,Are there any machines due for routine maintenance this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+245,What is the turnover rate of our top-selling product?,Inventory Management,Inventory Management,Sales,Sales,Sales,Sales,Sales,Inventory Management,Inventory Management,Sales
+246,Who were our top customers for the last financial year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+247,What is the average downtime for last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+248,Which product has the highest turnover rate?,Inventory Management,Inventory Management,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+249,What is the average sales volume per representative this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+250,Which machines have had the most downtime this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+251,What is the status of the order for product A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Sales,Sales,Sales,Inventory Management,Sales
+252,Who are our top 5 customers this year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+253,How many preventive maintenance checks are scheduled for this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+254,What is the expected delivery date for our recent restock order?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+255,What product had the most significant sales growth this quarter?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+256,How many maintenance tasks are scheduled for the next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+257,What is the average time for the restock of Item A?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+258,What is the trend in sales for the last four quarters?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+259,What was the last replenishment date for item X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+260,What is the sales projection for the next quarter?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+261,What is the planned preventive maintenance for the next month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+262,What is the estimated time of arrival for the next delivery of product Z?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales
+263,Which sales representative generated the most revenue last month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+264,What is the average downtime for equipment repairs?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+265,What was the most ordered item last month?,Inventory Management,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales,Sales,Inventory Management,Sales
+266,What is the average deal size for the current fiscal year?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+267,Which machinery requires the most frequent maintenance?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+268,When is the next shipment of item X expected?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Maintenance,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management
+269,Who were our top 10 customers last month in terms of revenue?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+270,How much total downtime was recorded last month due to maintenance activities?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+271,What are the top 5 items with the highest rate of turnover in our inventory?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+272,What is the average sale value for the past six months?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+273,How many machinery failures were reported this month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+274,What was the most ordered item last year?,Inventory Management,Inventory Management,Inventory Management,Sales,Sales,Inventory Management,Sales,Sales,Inventory Management,Sales
+275,What is the current conversion rate for lead to sales?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+276,How much downtime was incurred due to equipment failure last month?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+277,What is the turnover rate of our current inventory?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Inventory Management
+278,Who are the top three sales representatives this month?,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales,Sales
+279,What is the average time taken to resolve a maintenance issue?,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance,Maintenance
+280,What is the status of the shipment for item X?,Inventory Management,Inventory Management,Inventory Management,Inventory Management,Sales,Inventory Management,Inventory Management,Sales,Inventory Management,Sales
